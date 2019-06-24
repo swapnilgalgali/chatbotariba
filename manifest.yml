@@ -1,0 +1,8 @@
+---
+applications:
+- name: chatbotariba
+  host: chatbotariba
+  path: .
+  memory: 128M
+  timeout: 80
+  PORT: 5000
